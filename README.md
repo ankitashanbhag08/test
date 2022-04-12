@@ -1,4 +1,4 @@
-# Game of Rock Paper Scissor
+# Game of Rock-Paper-Scissor
 
 ### DESCRIPTION
 
@@ -16,6 +16,6 @@ The program and test cases use Java Programming language. The jar files included
 
 ### RELEASE INFORMTION
 
-**2022-04-12 1.2 released** : Result is displayed in tabular format.
+**2022-04-12 1.2 released** : Display of result in tabular format.
 
-**2022-04-01 1.0 released** : Working game along with test cases.
+**2022-04-01 1.0 released** : Rock-Paper-Scissor game along with test cases.
