@@ -1,20 +1,20 @@
-#### Game of Rock Paper Scissor
+# Game of Rock Paper Scissor
 
-# DESCRIPTION
+### DESCRIPTION
 
 User plays the game against computer. Computer's move are generated randomly.
 The user types "r", "p", "s" for "Rock", "Paper", "Scissor" respectively.
 Winner is announced on the basis of moves played by player/computer.
 
-# BACKGROUND
+### BACKGROUND
 
 The program and test cases use Java Programming language. The jar files included in the source are required to run the test cases. Follow the steps mentioned in INSTALL.txt for smooth running of project.
 
-# HOMEPAGE
+### HOMEPAGE
 
 <no homepage yet; upcoming>
 
-# RELEASE INFORMTION
+### RELEASE INFORMTION
 
 **2022-04-12 1.2 released** : Result is displayed in tabular format.
 
