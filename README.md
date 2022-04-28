@@ -12,6 +12,8 @@ The program and test cases use Java Programming language. The jar files included
 
 #### Homepage
 
+![This is an image](/assets/images/logo.png)
+
 <no homepage yet; upcoming>
 
 #### Release Information
